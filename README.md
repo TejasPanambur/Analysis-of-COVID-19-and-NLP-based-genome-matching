@@ -32,3 +32,5 @@ For our purposes here, there are three key types of RNA: messenger RNA, ribosoma
 ***A rich feature set is created using genome information from the fetched sequence using BioPython.***
 **Organism DNA Sequence ID,Len of mRNA, Len of Amino Acid, Protiens, Molecular Weight, Aromaticity,	Amino Acid Freq, IsoElectric Point**
 ![](Results/BioPython.png)
+
+### Using classical NLP technique tf-idf for all the Protien sequences tried to find similar virus like corona-virus. Check the results in Notebook. This can be expanded with richer database, exploring other features and trying other models like seq2seq or RNN models.
